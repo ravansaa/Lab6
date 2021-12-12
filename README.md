@@ -13,7 +13,9 @@
 Program sederhana dengan mengaplikasikan penggunaan fungsi yang akan menampilkan daftar nilai mahasiswa
 #####
 Disini saya menggunakan Fungsi dari dictionary juga untuk menyimpan data dari inputan
+#####
 Cara kerja program
+#####
 Ketika di run Program menyediakan menu menu yang bisa anda pilih seperti
 
 "L" untuk fungsi lihat
