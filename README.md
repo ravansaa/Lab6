@@ -38,3 +38,16 @@ guna fungsi ini untuk keluar dari program
 ![Gambar](Foto/ss4.png)
 ![Gambar](Foto/ss5.png)
 ![Gambar](Foto/ss6.png)
+#### Berikut Contoh Penggunaan Kode (T)ambah
+![Gambar](Foto/ss7.png)
+#### Berikut Contoh Penggunaan Kode (L)ihat/Tampilkan
+![Gambar](Foto/ss8.png)
+#### Berikut Contoh Penggunaan Kode (U)bah
+![Gambar](Foto/ss9.png)
+![Gambar](Foto/ss9h.png)
+#### Berikut Contoh Penggunaan Kode (H)apus
+![Gambar](Foto/ss10.png)
+![Gambar](Foto/ss10h.png)
+#### Berikut Contoh Penggunaan Kode (K)eluar
+![Gambar](Foto/ss11.png)
+
